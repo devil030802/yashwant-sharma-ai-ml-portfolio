@@ -1,7 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
 
 # Yashwant Sharma - AI & ML Portfolio
 
